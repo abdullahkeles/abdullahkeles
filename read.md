@@ -1,5 +1,4 @@
-# Kendime Notlar (_Notes Myself_)
-
+# Kendime Notlar
 
 ## 1. Reguler Expression
 
